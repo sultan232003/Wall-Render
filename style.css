@@ -1,0 +1,19 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    overflow: hidden;
+}
+#canvas{
+    background-color: black;
+}
+
+#score_box
+{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    position: absolute;
+}
